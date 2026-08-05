@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [3731-find-missing-elements](https://github.com/Deepika-shree/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Deepika-shree/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3899-angles-of-a-triangle](https://github.com/Deepika-shree/LeetCode/tree/main/3899-angles-of-a-triangle/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,4 +33,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Deepika-shree/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3899-angles-of-a-triangle](https://github.com/Deepika-shree/LeetCode/tree/main/3899-angles-of-a-triangle/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3899-angles-of-a-triangle](https://github.com/Deepika-shree/LeetCode/tree/main/3899-angles-of-a-triangle/) | Medium |
 <!---LeetCode Topics End-->
