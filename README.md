@@ -36,9 +36,14 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Deepika-shree/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3899-angles-of-a-triangle](https://github.com/Deepika-shree/LeetCode/tree/main/3899-angles-of-a-triangle/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3899-angles-of-a-triangle](https://github.com/Deepika-shree/LeetCode/tree/main/3899-angles-of-a-triangle/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Deepika-shree/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
