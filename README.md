@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/Deepika-shree/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Deepika-shree/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -91,4 +92,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Deepika-shree/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
