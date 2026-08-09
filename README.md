@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/Deepika-shree/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Deepika-shree/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -96,4 +97,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
