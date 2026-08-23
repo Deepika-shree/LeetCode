@@ -8,12 +8,14 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [2408-design-sql](https://github.com/Deepika-shree/LeetCode/tree/main/2408-design-sql/) | Medium |
 | [3731-find-missing-elements](https://github.com/Deepika-shree/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Deepika-shree/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3899-angles-of-a-triangle](https://github.com/Deepika-shree/LeetCode/tree/main/3899-angles-of-a-triangle/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2408-design-sql](https://github.com/Deepika-shree/LeetCode/tree/main/2408-design-sql/) | Medium |
 | [3731-find-missing-elements](https://github.com/Deepika-shree/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -80,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Deepika-shree/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [2408-design-sql](https://github.com/Deepika-shree/LeetCode/tree/main/2408-design-sql/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepika-shree/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -98,4 +101,8 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2408-design-sql](https://github.com/Deepika-shree/LeetCode/tree/main/2408-design-sql/) | Medium |
 <!---LeetCode Topics End-->
