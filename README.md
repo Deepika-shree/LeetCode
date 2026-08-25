@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/Deepika-shree/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Deepika-shree/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Deepika-shree/LeetCode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Deepika-shree/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [2408-design-sql](https://github.com/Deepika-shree/LeetCode/tree/main/2408-design-sql/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Deepika-shree/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -122,6 +123,7 @@
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Deepika-shree/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Deepika-shree/LeetCode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Deepika-shree/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
