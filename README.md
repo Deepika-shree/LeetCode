@@ -21,6 +21,7 @@
 | [0049-group-anagrams](https://github.com/Deepika-shree/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Deepika-shree/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Deepika-shree/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [2408-design-sql](https://github.com/Deepika-shree/LeetCode/tree/main/2408-design-sql/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Deepika-shree/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -62,6 +63,7 @@
 | [0036-valid-sudoku](https://github.com/Deepika-shree/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Deepika-shree/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Deepika-shree/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Deepika-shree/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -174,6 +176,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Deepika-shree/LeetCode/tree/main/0043-multiply-strings/) | Medium |
+| [0054-spiral-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
