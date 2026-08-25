@@ -55,6 +55,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Deepika-shree/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Deepika-shree/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3899-angles-of-a-triangle](https://github.com/Deepika-shree/LeetCode/tree/main/3899-angles-of-a-triangle/) | Medium |
@@ -99,6 +100,7 @@
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Deepika-shree/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/Deepika-shree/LeetCode/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/Deepika-shree/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [2408-design-sql](https://github.com/Deepika-shree/LeetCode/tree/main/2408-design-sql/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepika-shree/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Greedy
@@ -142,4 +144,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepika-shree/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/Deepika-shree/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
