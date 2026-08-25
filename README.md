@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Deepika-shree/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/Deepika-shree/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [2408-design-sql](https://github.com/Deepika-shree/LeetCode/tree/main/2408-design-sql/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Deepika-shree/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -17,6 +18,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Deepika-shree/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [2408-design-sql](https://github.com/Deepika-shree/LeetCode/tree/main/2408-design-sql/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Deepika-shree/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Deepika-shree/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -40,6 +42,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Deepika-shree/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Deepika-shree/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Math
 | Problem Name | Difficulty |
