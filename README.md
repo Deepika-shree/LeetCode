@@ -17,6 +17,7 @@
 | [0045-jump-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Deepika-shree/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Deepika-shree/LeetCode/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/Deepika-shree/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [2408-design-sql](https://github.com/Deepika-shree/LeetCode/tree/main/2408-design-sql/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Deepika-shree/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -55,11 +56,13 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Deepika-shree/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Deepika-shree/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/Deepika-shree/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Deepika-shree/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Deepika-shree/LeetCode/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/Deepika-shree/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Deepika-shree/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3899-angles-of-a-triangle](https://github.com/Deepika-shree/LeetCode/tree/main/3899-angles-of-a-triangle/) | Medium |
