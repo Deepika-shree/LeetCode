@@ -16,6 +16,7 @@
 | [0042-trapping-rain-water](https://github.com/Deepika-shree/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Deepika-shree/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Deepika-shree/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [2408-design-sql](https://github.com/Deepika-shree/LeetCode/tree/main/2408-design-sql/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Deepika-shree/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -34,6 +35,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/Deepika-shree/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/Deepika-shree/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -140,6 +142,7 @@
 | [0039-combination-sum](https://github.com/Deepika-shree/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Deepika-shree/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Deepika-shree/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Deepika-shree/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
