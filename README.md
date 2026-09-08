@@ -23,6 +23,7 @@
 | [0053-maximum-subarray](https://github.com/Deepika-shree/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Deepika-shree/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0066-plus-one](https://github.com/Deepika-shree/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0217-contains-duplicate](https://github.com/Deepika-shree/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Deepika-shree/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -76,6 +77,7 @@
 | [0043-multiply-strings](https://github.com/Deepika-shree/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Deepika-shree/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Deepika-shree/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/Deepika-shree/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0412-fizz-buzz](https://github.com/Deepika-shree/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Deepika-shree/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
