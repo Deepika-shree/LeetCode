@@ -85,6 +85,7 @@
 | [0066-plus-one](https://github.com/Deepika-shree/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0204-count-primes](https://github.com/Deepika-shree/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0412-fizz-buzz](https://github.com/Deepika-shree/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0507-perfect-number](https://github.com/Deepika-shree/LeetCode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Deepika-shree/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Deepika-shree/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
