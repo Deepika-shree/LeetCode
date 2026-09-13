@@ -27,6 +27,7 @@
 | [0204-count-primes](https://github.com/Deepika-shree/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Deepika-shree/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Deepika-shree/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Deepika-shree/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Deepika-shree/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2408-design-sql](https://github.com/Deepika-shree/LeetCode/tree/main/2408-design-sql/) | Medium |
@@ -124,6 +125,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Deepika-shree/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
