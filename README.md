@@ -27,6 +27,7 @@
 | [0204-count-primes](https://github.com/Deepika-shree/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Deepika-shree/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/Deepika-shree/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Deepika-shree/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2408-design-sql](https://github.com/Deepika-shree/LeetCode/tree/main/2408-design-sql/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Deepika-shree/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -206,6 +207,7 @@
 | [0043-multiply-strings](https://github.com/Deepika-shree/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0412-fizz-buzz](https://github.com/Deepika-shree/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Deepika-shree/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
