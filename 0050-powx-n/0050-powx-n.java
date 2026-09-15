@@ -1,29 +1,25 @@
 class Solution {
     public double myPow(double x, int n) {
-        // Use long to prevent integer overflow when handling Integer.MIN_VALUE
-        long N = n;
-        
-        // Handle negative exponents
-        if (N < 0) {
+        long power = n;
+
+        if (power < 0) {
             x = 1 / x;
-            N = -N;
+            power = -power;
         }
-        
-        double result = 1.0;
-        double currentProduct = x;
-        
-        // Binary exponentiation loop
-        while (N > 0) {
-            // If the current exponent bit is odd, multiply the result
-            if (N % 2 == 1) {
-                result *= currentProduct;
+
+        double result = 1;
+
+        while (power > 0) {
+
+            if (power % 2 == 1) {
+                result = result * x;
             }
-            // Square the base
-            currentProduct *= currentProduct;
-            // Halve the exponent
-            N /= 2;
+
+            x = x * x;
+            power = power / 2;
         }
-        
+
         return result;
+        
     }
 }
