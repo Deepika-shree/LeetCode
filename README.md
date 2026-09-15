@@ -31,6 +31,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Deepika-shree/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Deepika-shree/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Deepika-shree/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Deepika-shree/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Deepika-shree/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2408-design-sql](https://github.com/Deepika-shree/LeetCode/tree/main/2408-design-sql/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Deepika-shree/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -95,6 +96,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Deepika-shree/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Deepika-shree/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Deepika-shree/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Deepika-shree/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3899-angles-of-a-triangle](https://github.com/Deepika-shree/LeetCode/tree/main/3899-angles-of-a-triangle/) | Medium |
 ## Geometry
@@ -238,6 +240,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Deepika-shree/LeetCode/tree/main/0204-count-primes/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Deepika-shree/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,4 +258,12 @@
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Deepika-shree/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Deepika-shree/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Deepika-shree/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Deepika-shree/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
