@@ -28,6 +28,7 @@
 | [0217-contains-duplicate](https://github.com/Deepika-shree/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Deepika-shree/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Deepika-shree/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Deepika-shree/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Deepika-shree/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Deepika-shree/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -93,6 +94,7 @@
 | [0509-fibonacci-number](https://github.com/Deepika-shree/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Deepika-shree/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Deepika-shree/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Deepika-shree/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3899-angles-of-a-triangle](https://github.com/Deepika-shree/LeetCode/tree/main/3899-angles-of-a-triangle/) | Medium |
 ## Geometry
