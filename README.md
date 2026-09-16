@@ -158,6 +158,7 @@
 | [0115-distinct-subsequences](https://github.com/Deepika-shree/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0344-reverse-string](https://github.com/Deepika-shree/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Deepika-shree/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/Deepika-shree/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2408-design-sql](https://github.com/Deepika-shree/LeetCode/tree/main/2408-design-sql/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepika-shree/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Greedy
