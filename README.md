@@ -144,6 +144,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepika-shree/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0125-valid-palindrome](https://github.com/Deepika-shree/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Deepika-shree/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepika-shree/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## String
@@ -156,6 +157,7 @@
 | [0049-group-anagrams](https://github.com/Deepika-shree/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Deepika-shree/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Deepika-shree/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0125-valid-palindrome](https://github.com/Deepika-shree/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Deepika-shree/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Deepika-shree/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Deepika-shree/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
