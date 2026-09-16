@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Deepika-shree/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Deepika-shree/LeetCode/tree/main/0035-search-insert-position/) | Easy |
@@ -150,6 +151,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Deepika-shree/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Deepika-shree/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/Deepika-shree/LeetCode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/Deepika-shree/LeetCode/tree/main/0043-multiply-strings/) | Medium |
@@ -271,4 +273,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepika-shree/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Deepika-shree/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
