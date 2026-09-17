@@ -48,6 +48,7 @@
 | [0041-first-missing-positive](https://github.com/Deepika-shree/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Deepika-shree/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Deepika-shree/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Deepika-shree/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/Deepika-shree/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [2408-design-sql](https://github.com/Deepika-shree/LeetCode/tree/main/2408-design-sql/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Deepika-shree/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -59,6 +60,7 @@
 | [0047-permutations-ii](https://github.com/Deepika-shree/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Deepika-shree/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Deepika-shree/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Deepika-shree/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [3731-find-missing-elements](https://github.com/Deepika-shree/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -161,6 +163,7 @@
 | [0058-length-of-last-word](https://github.com/Deepika-shree/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Deepika-shree/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Deepika-shree/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/Deepika-shree/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Deepika-shree/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/Deepika-shree/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/Deepika-shree/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
