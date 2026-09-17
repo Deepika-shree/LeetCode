@@ -28,6 +28,7 @@
 | [0204-count-primes](https://github.com/Deepika-shree/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Deepika-shree/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Deepika-shree/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0867-transpose-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Deepika-shree/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Deepika-shree/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -83,6 +84,7 @@
 | [0037-sudoku-solver](https://github.com/Deepika-shree/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Deepika-shree/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0867-transpose-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Deepika-shree/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -228,6 +230,7 @@
 | [0043-multiply-strings](https://github.com/Deepika-shree/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0412-fizz-buzz](https://github.com/Deepika-shree/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0867-transpose-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Deepika-shree/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
