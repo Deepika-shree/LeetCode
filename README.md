@@ -25,6 +25,7 @@
 | [0054-spiral-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Deepika-shree/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/Deepika-shree/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0204-count-primes](https://github.com/Deepika-shree/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Deepika-shree/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Deepika-shree/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -62,6 +63,7 @@
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Deepika-shree/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Deepika-shree/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Deepika-shree/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Deepika-shree/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [3731-find-missing-elements](https://github.com/Deepika-shree/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -154,6 +156,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepika-shree/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0088-merge-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Deepika-shree/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Deepika-shree/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepika-shree/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
