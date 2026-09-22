@@ -31,6 +31,7 @@
 | [0204-count-primes](https://github.com/Deepika-shree/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Deepika-shree/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Deepika-shree/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0724-find-pivot-index](https://github.com/Deepika-shree/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0867-transpose-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Deepika-shree/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -147,6 +148,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/Deepika-shree/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Deepika-shree/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Game Theory
