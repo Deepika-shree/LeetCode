@@ -32,6 +32,7 @@
 | [0217-contains-duplicate](https://github.com/Deepika-shree/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Deepika-shree/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/Deepika-shree/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0832-flipping-an-image](https://github.com/Deepika-shree/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1140-stone-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Deepika-shree/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -94,6 +95,7 @@
 | [0054-spiral-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Deepika-shree/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0832-flipping-an-image](https://github.com/Deepika-shree/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Deepika-shree/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -166,6 +168,7 @@
 | [0088-merge-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Deepika-shree/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Deepika-shree/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0832-flipping-an-image](https://github.com/Deepika-shree/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepika-shree/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -246,6 +249,7 @@
 | [0043-multiply-strings](https://github.com/Deepika-shree/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0412-fizz-buzz](https://github.com/Deepika-shree/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0832-flipping-an-image](https://github.com/Deepika-shree/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Deepika-shree/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Recursion
@@ -302,4 +306,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Deepika-shree/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/Deepika-shree/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 <!---LeetCode Topics End-->
