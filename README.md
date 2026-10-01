@@ -174,6 +174,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Deepika-shree/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Deepika-shree/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Deepika-shree/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/Deepika-shree/LeetCode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/Deepika-shree/LeetCode/tree/main/0043-multiply-strings/) | Medium |
@@ -201,11 +202,13 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Deepika-shree/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Deepika-shree/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Deepika-shree/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Deepika-shree/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Deepika-shree/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
