@@ -112,6 +112,7 @@
 | [0043-multiply-strings](https://github.com/Deepika-shree/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Deepika-shree/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Deepika-shree/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/Deepika-shree/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Deepika-shree/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0204-count-primes](https://github.com/Deepika-shree/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0326-power-of-three](https://github.com/Deepika-shree/LeetCode/tree/main/0326-power-of-three/) | Easy |
@@ -143,6 +144,7 @@
 | [0045-jump-game-ii](https://github.com/Deepika-shree/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Deepika-shree/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Deepika-shree/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/Deepika-shree/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Deepika-shree/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0509-fibonacci-number](https://github.com/Deepika-shree/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Deepika-shree/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -328,4 +330,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Deepika-shree/LeetCode/tree/main/0061-rotate-list/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Deepika-shree/LeetCode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
