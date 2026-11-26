@@ -25,6 +25,7 @@
 | [0054-spiral-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Deepika-shree/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Deepika-shree/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/Deepika-shree/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/Deepika-shree/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Deepika-shree/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
