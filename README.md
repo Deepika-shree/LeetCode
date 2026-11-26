@@ -170,6 +170,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepika-shree/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/Deepika-shree/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Deepika-shree/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Deepika-shree/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Deepika-shree/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -323,4 +324,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Deepika-shree/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/Deepika-shree/LeetCode/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
