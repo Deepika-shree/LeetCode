@@ -118,6 +118,7 @@
 | [0050-powx-n](https://github.com/Deepika-shree/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Deepika-shree/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Deepika-shree/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/Deepika-shree/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0204-count-primes](https://github.com/Deepika-shree/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0326-power-of-three](https://github.com/Deepika-shree/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/Deepika-shree/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
@@ -195,6 +196,7 @@
 | [0044-wildcard-matching](https://github.com/Deepika-shree/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Deepika-shree/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Deepika-shree/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/Deepika-shree/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Deepika-shree/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Deepika-shree/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Deepika-shree/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -266,6 +268,7 @@
 | [0043-multiply-strings](https://github.com/Deepika-shree/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Deepika-shree/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/Deepika-shree/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/Deepika-shree/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0832-flipping-an-image](https://github.com/Deepika-shree/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Deepika-shree/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
@@ -327,6 +330,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Deepika-shree/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0832-flipping-an-image](https://github.com/Deepika-shree/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
