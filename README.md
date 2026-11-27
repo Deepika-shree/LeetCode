@@ -410,4 +410,5 @@
 | [1890-the-latest-login-in-2020](https://github.com/Deepika-shree/LeetCode/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [1907-count-salary-categories](https://github.com/Deepika-shree/LeetCode/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/Deepika-shree/LeetCode/tree/main/1934-confirmation-rate/) | Medium |
+| [1965-employees-with-missing-information](https://github.com/Deepika-shree/LeetCode/tree/main/1965-employees-with-missing-information/) | Easy |
 <!---LeetCode Topics End-->
