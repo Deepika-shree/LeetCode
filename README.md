@@ -407,4 +407,5 @@
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Deepika-shree/LeetCode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/Deepika-shree/LeetCode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/Deepika-shree/LeetCode/tree/main/1795-rearrange-products-table/) | Easy |
+| [1890-the-latest-login-in-2020](https://github.com/Deepika-shree/LeetCode/tree/main/1890-the-latest-login-in-2020/) | Easy |
 <!---LeetCode Topics End-->
