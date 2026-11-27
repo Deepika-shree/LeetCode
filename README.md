@@ -355,4 +355,5 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Deepika-shree/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Deepika-shree/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 | [0184-department-highest-salary](https://github.com/Deepika-shree/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/Deepika-shree/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
