@@ -411,4 +411,5 @@
 | [1907-count-salary-categories](https://github.com/Deepika-shree/LeetCode/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/Deepika-shree/LeetCode/tree/main/1934-confirmation-rate/) | Medium |
 | [1965-employees-with-missing-information](https://github.com/Deepika-shree/LeetCode/tree/main/1965-employees-with-missing-information/) | Easy |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Deepika-shree/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
