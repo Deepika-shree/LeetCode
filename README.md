@@ -383,4 +383,5 @@
 | [1075-project-employees-i](https://github.com/Deepika-shree/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/Deepika-shree/LeetCode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Deepika-shree/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
+| [1158-market-analysis-i](https://github.com/Deepika-shree/LeetCode/tree/main/1158-market-analysis-i/) | Medium |
 <!---LeetCode Topics End-->
