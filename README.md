@@ -401,4 +401,5 @@
 | [1587-bank-account-summary-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Deepika-shree/LeetCode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Deepika-shree/LeetCode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+| [1693-daily-leads-and-partners](https://github.com/Deepika-shree/LeetCode/tree/main/1693-daily-leads-and-partners/) | Easy |
 <!---LeetCode Topics End-->
