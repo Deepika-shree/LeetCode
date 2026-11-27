@@ -356,4 +356,5 @@
 | [0182-duplicate-emails](https://github.com/Deepika-shree/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 | [0184-department-highest-salary](https://github.com/Deepika-shree/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/Deepika-shree/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0196-delete-duplicate-emails](https://github.com/Deepika-shree/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
