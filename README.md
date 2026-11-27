@@ -385,4 +385,5 @@
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Deepika-shree/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1158-market-analysis-i](https://github.com/Deepika-shree/LeetCode/tree/main/1158-market-analysis-i/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/Deepika-shree/LeetCode/tree/main/1164-product-price-at-a-given-date/) | Medium |
+| [1174-immediate-food-delivery-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 <!---LeetCode Topics End-->
