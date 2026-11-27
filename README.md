@@ -403,4 +403,5 @@
 | [1661-average-time-of-process-per-machine](https://github.com/Deepika-shree/LeetCode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Deepika-shree/LeetCode/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1729-find-followers-count](https://github.com/Deepika-shree/LeetCode/tree/main/1729-find-followers-count/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Deepika-shree/LeetCode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 <!---LeetCode Topics End-->
