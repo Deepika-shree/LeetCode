@@ -367,4 +367,5 @@
 | [0585-investments-in-2016](https://github.com/Deepika-shree/LeetCode/tree/main/0585-investments-in-2016/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Deepika-shree/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Deepika-shree/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0601-human-traffic-of-stadium](https://github.com/Deepika-shree/LeetCode/tree/main/0601-human-traffic-of-stadium/) | Hard |
 <!---LeetCode Topics End-->
