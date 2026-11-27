@@ -354,4 +354,5 @@
 | [0180-consecutive-numbers](https://github.com/Deepika-shree/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Deepika-shree/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Deepika-shree/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
+| [0184-department-highest-salary](https://github.com/Deepika-shree/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
