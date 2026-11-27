@@ -378,4 +378,5 @@
 | [0627-swap-sex-of-employees](https://github.com/Deepika-shree/LeetCode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Deepika-shree/LeetCode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Deepika-shree/LeetCode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/Deepika-shree/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
