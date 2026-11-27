@@ -388,4 +388,5 @@
 | [1174-immediate-food-delivery-ii](https://github.com/Deepika-shree/LeetCode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1179-reformat-department-table](https://github.com/Deepika-shree/LeetCode/tree/main/1179-reformat-department-table/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/Deepika-shree/LeetCode/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Deepika-shree/LeetCode/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 <!---LeetCode Topics End-->
