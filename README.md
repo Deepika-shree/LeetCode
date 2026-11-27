@@ -380,4 +380,5 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Deepika-shree/LeetCode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Deepika-shree/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/Deepika-shree/LeetCode/tree/main/1070-product-sales-analysis-iii/) | Medium |
+| [1075-project-employees-i](https://github.com/Deepika-shree/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 <!---LeetCode Topics End-->
