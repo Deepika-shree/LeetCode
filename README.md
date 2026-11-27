@@ -397,4 +397,5 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Deepika-shree/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1393-capital-gainloss](https://github.com/Deepika-shree/LeetCode/tree/main/1393-capital-gainloss/) | Medium |
 | [1407-top-travellers](https://github.com/Deepika-shree/LeetCode/tree/main/1407-top-travellers/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Deepika-shree/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 <!---LeetCode Topics End-->
