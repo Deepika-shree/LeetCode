@@ -391,4 +391,5 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Deepika-shree/LeetCode/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/Deepika-shree/LeetCode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1280-students-and-examinations](https://github.com/Deepika-shree/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
+| [1321-restaurant-growth](https://github.com/Deepika-shree/LeetCode/tree/main/1321-restaurant-growth/) | Medium |
 <!---LeetCode Topics End-->
